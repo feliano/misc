@@ -1,10 +1,9 @@
 # Miscellaneous scripts
 
-
-## Approximate Pi
+### Approximate Pi
 
 Approximate Pi according to description at [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 
-![alt text][logo]
+![Pi Approximation][logo]
 
-[logo]: https://github.com/feliano/misc/approx_pi.png "Approximation of Pi"
+[logo]: https://github.com/feliano/misc/blob/master/approx_pi.png "Approximation of Pi"
