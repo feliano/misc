@@ -13,9 +13,10 @@ Approximate Pi according to description at [Wikipedia](https://en.wikipedia.org/
 Generate 10 paths of geometric brownian motion
 
 Detailed descriptions:
-..* [Geometric Brownian motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion)
-..* [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
 
-![gbm][logo]
+* [Geometric Brownian motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion)
+* [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
 
-[logo]: https://github.com/feliano/misc/blob/master/gbm.png "gbm"
+![gbm][gbm_image]
+
+[gbm_image]: https://github.com/feliano/misc/blob/master/gbm.png "gbm"
